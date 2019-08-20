@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.example.android.securelogin" platformBuildVersionCode="25" platformBuildVersionName="7.1.1">
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="25" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application android:theme="@style/AppTheme" android:label="@string/app_name" android:icon="@mipmap/ic_launcher" android:name="com.android.tools.fd.runtime.BootstrapApplication" android:debuggable="true" android:allowBackup="true" android:supportsRtl="true">
+        <activity android:name="com.example.android.securelogin.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:label="Verify OTP" android:name="com.example.android.securelogin.OTPactivity" />
+        <activity android:label="Set Password" android:name="com.example.android.securelogin.PasswordActivity" />
+        <activity android:label="Acknowledgement" android:name="com.example.android.securelogin.ACKactivity" />
+        <activity android:label="Welcome!" android:name="com.example.android.securelogin.WelcomeActivity" />
+        <activity android:label="Login" android:name="com.example.android.securelogin.LoginActivity" />
+        <activity android:label="XYZ Bank Home" android:name="com.example.android.securelogin.bankPageActivity" />
+    </application>
+</manifest>

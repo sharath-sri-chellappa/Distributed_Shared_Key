@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@color/light_blue" android:layout_width="match_parent" android:layout_height="match_parent">
+    <EditText android:id="@id/passwEditText" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Enter Login Pin: " />
+    <Button android:id="@id/connectButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="login" />
+    <ImageView android:id="@id/imageView1" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x5001" />
+    <Button android:id="@id/button1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Generate OTP" />
+    <EditText android:id="@id/signin_field" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="20dp" android:hint="Enter captcha: " android:maxLength="6" android:inputType="number|numberSigned|numberDecimal|numberPassword|phone" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="20dp" android:text="Click the button above to generate OTP" />
+    <Button android:id="@id/clearButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Clear" />
+    <TextView android:id="@id/responseTextView" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

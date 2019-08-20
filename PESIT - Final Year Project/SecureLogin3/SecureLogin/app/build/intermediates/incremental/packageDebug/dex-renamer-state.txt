@@ -1,0 +1,7 @@
+#Mon Apr 17 22:26:02 IST 2017
+base.0=D\:\\Final Year Project\\SecureLogin2\\SecureLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ac20cce4095a1060e1a775e18e55a08da997d590
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Final Year Project\\SecureLogin2\\SecureLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7811da532cd8399391f987bae2d1847945209f18\\classes.dex
+base.1=D\:\\Final Year Project\\SecureLogin2\\SecureLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7811da532cd8399391f987bae2d1847945209f18
+file.0=D\:\\Final Year Project\\SecureLogin2\\SecureLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ac20cce4095a1060e1a775e18e55a08da997d590\\classes.dex

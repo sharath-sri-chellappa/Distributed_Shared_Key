@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_29ad56579a04edb44f12c7e050e3d93d788828c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_d78948211a9f5fdb541020cbfc62f32aa0808888\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_c78bc6cbb5be8e017c9308844ed0fe575395cbbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c13bcbded38c789668b697753224c79d85d17a64">
+        <dex dex="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7811da532cd8399391f987bae2d1847945209f18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_37fdc92b12ada0aeae466f3aeeed0b96065c8dfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_17653a73236ce9069c7125c3b01b03f503db3f14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_d9243bb8069dc836729b88506fff140bf96d3ec0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a6c69346855341be024ae8319f8437873fd7f6a0">
+        <dex dex="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ac20cce4095a1060e1a775e18e55a08da997d590\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_20b0e3657accd4fb3763a57a9c83be342114b033\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Final Year Project\SecureLogin2\SecureLogin\app\libs\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.3.1_9084c31d2d10587c6b28292c04c56406e4c591d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharath\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_5033702cd5ba695ed3ec7f59a3197243c38645c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_305e56ab75ff14b912765d8fb6816d01b8aee655\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Final Year Project\SecureLogin2\SecureLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_9f6f594a4a8e188b227588249aedcacb077ae0b4\classes.dex" />
+    </item>
+
+</items>
